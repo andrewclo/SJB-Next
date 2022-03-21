@@ -102,3 +102,27 @@
 .wp-block-media-text {
   @apply grid grid-cols-2 gap-4;
 }
+
+.sharedaddy {
+  display: none !important;
+}
+
+h2.amatic,
+h2.write {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+
+.post-body_content__1R6cU p {
+  margin-bottom: 1rem;
+}
+
+.post-body_content__1R6cU ul {
+  list-style-type: disc;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
+}
+
+.post-body_content__1R6cU {
+  margin-bottom: 1.5rem;
+}

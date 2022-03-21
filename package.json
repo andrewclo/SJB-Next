@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@apollo/client": "^3.5.10",
+    "apollo": "^2.33.9",
     "classnames": "2.3.1",
     "date-fns": "2.28.0",
     "next": "latest",
